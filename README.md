@@ -1,2 +1,0 @@
-# endsha
-My personal website
